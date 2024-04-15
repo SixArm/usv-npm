@@ -1,0 +1,33 @@
+{
+  "name": "usv",
+  "version": "0.1.0",
+  "description": "USV: Unicode Separated Values ™",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixarm/usv-npm.git"
+  },
+  "keywords": [
+    "usv",
+    "unicode",
+    "data",
+    "format",
+    "spreadsheets",
+    "databases"
+  ],
+  "author": "Joel Parker Henderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sixarm/usv-npm/issues"
+  },
+  "homepage": "https://github.com/sixarm/usv-npm#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.4.5"
+  }
+}
